@@ -9,6 +9,7 @@
 /coverage
 
 Aux.js
+firebase
 
 # production
 /build
