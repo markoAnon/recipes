@@ -1,0 +1,11 @@
+.Info {
+    font-family: monospace;
+    width: 75%;
+    font-size: 20px;
+}
+
+.Container {
+    width: 75%;
+    text-align: center;
+    padding: 10px 22.5%;
+}
